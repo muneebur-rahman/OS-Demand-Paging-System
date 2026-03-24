@@ -1,0 +1,2 @@
+# OS-Demand-Paging-System
+This project focuses on the implementation of demand paging and page fault handling in a virtual memory environment. It simulates how an Operating System efficiently manages memory by loading pages only when required. The project includes page fault detection, page replacement strategies, and demonstrates the working of virtual memory management in modern operating systems.
