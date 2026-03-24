@@ -100,7 +100,7 @@ Demand-Paging-Simulation/
 ## 👨‍💻 Authors
 
 - Muneebur Rahman
-- Debjit
+- Debjit Talukdar
 
 ---
 
